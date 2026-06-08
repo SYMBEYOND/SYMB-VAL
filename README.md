@@ -201,3 +201,13 @@ MIT License - See [LICENSE](./LICENSE)
 
 **SYMBEYOND AI LLC**  
 symbeyond.ai
+
+---
+
+## SYMB-Builder Tier
+
+The active development codebase, Pro installments, and full parser suite
+live in the SYMB-Builder tier -- $5/month at
+[patreon.com/c/SYMBEYONDAI](https://www.patreon.com/c/SYMBEYONDAI).
+
+One subscription. All Pro repos. Founding 100 pricing.
