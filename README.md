@@ -6,6 +6,10 @@ Not theory. Not notes. **A command you can run any time your brain wants to skip
 
 ---
 
+## Using an AI Assistant?
+
+Start with [`REPO_BOOT.md`](REPO_BOOT.md), a quick orientation for any LLM (Claude, ChatGPT, or other) on what this repo is, how it works, and how to collaborate with it effectively.
+
 ## Purpose
 
 SYMB-VAL is a lightweight validation layer for SYMBEYOND systems.
