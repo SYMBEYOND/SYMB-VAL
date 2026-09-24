@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "repository": {
-    "purpose": "Repository state and orientation management",
-    "audience": "Builders, maintainers, and AI collaborators",
-    "status": "Production"
+    "purpose": "Develop SYMB-VAL, a lightweight cognitive checkpoint for distinguishing assumptions, tests, verification, and rejection before uncertain claims become action.",
+    "audience": "Users, builders, maintainers, and human or AI collaborators applying or extending the SYMB-VAL validation workflow.",
+    "status": "v0.1 manual checkpoint tool complete; broader token, index, AI, and ecosystem integrations are planned or future work."
   },
   "orientation": {
     "important_files": [],
