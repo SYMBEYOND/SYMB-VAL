@@ -27,15 +27,15 @@ Important distinctions and boundaries:
 Engine: `1.0.0-rc1`
 Configuration schema: `1`
 Managed-output schema: `1`
-Branch: `feat/add-repo-boot-engine`
-Meaningful source commit: `56d08b9617a5a58e2a08fd1fbb8c89c83b0fa3db`
-Working tree dirty: `YES`
+Branch: `main`
+Meaningful source commit: `57debfb90fa043a3fda808927c9d07e63c79e96f`
+Working tree dirty: `NO`
 
 ### Human-approved repository context
 
-Purpose: Repository state and orientation management
-Audience: Builders, maintainers, and AI collaborators
-Status: Production
+Purpose: Develop SYMB-VAL, a lightweight cognitive checkpoint for distinguishing assumptions, tests, verification, and rejection before uncertain claims become action.
+Audience: Users, builders, maintainers, and human or AI collaborators applying or extending the SYMB-VAL validation workflow.
+Status: v0.1 manual checkpoint tool complete; broader token, index, AI, and ecosystem integrations are planned or future work.
 
 ### Authority and uncertainty
 
