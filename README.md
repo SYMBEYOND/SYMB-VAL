@@ -208,10 +208,6 @@ symbeyond.ai
 
 ---
 
-## SYMB-Builder Tier
+## SYMBEYOND Pro
 
-The active development codebase, Pro installments, and full parser suite
-live in the SYMB-Builder tier -- $5/month at
-[patreon.com/c/SYMBEYONDAI](https://www.patreon.com/c/SYMBEYONDAI).
-
-One subscription. All Pro repos. Founding 100 pricing.
+SYMB-VAL remains free and MIT licensed. SYMBEYOND is developing separate Pro capabilities; there is currently no Patreon enrollment for these tools. See [symbeyond.ai](https://symbeyond.ai) for future product information.
